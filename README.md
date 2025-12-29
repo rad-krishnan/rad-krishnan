@@ -10,20 +10,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.oracle.com/database/technologies/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_Sql_Logo.png" alt="oracle sql" width="40" height="40"/>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle SQL"/>
   </a>
   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/oracle.svg" alt="plsql" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40" alt="PL/SQL"/>
   </a>
   <a href="https://www.oracle.com/middleware/technologies/data-integrator.html" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/O/oracle-data-integrator-odi-logo-3FAB6F52D4-seeklogo.com.png" alt="oracle data integrator" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/O/oracle-data-integrator-logo-9E2A8CD384-seeklogo.com.png" width="40" height="40" alt="Oracle Data Integrator"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
   </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
